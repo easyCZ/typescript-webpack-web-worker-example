@@ -1,5 +1,5 @@
-# typescipt-webpack-web-worker-example
-Example configuration for working with Web Workers in typescript.
+# typescript-webpack-web-worker-example
+Example configuration for working with Web Workers in TypeScript.
 
 Majority of information obtianed from https://github.com/webpack-contrib/worker-loader/issues/94, just assembled for a runnable example.
 
