@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": true,
+    "outDir": "./dist/",
+    "module": "commonjs",
+    "target": "es6",
+    "lib": [
+      "es2015",
+      // required to get correct typing on web workers
+      "webworker"
+    ]
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
